@@ -10,6 +10,8 @@ database.
 2. Create a `js` file, and install the `mongodb` node module:
 
 ```bash
+$ mkdir express-mongo-app
+$ cd express-mongo-app
 $ touch app.js
 $ npm init -y
 $ npm install --save mongodb
